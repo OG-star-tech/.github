@@ -1,4 +1,4 @@
-![OG Star Tech Banner](./assets/banner.png)
+
 # OG Star Tech
 
 **English | [中文](README.zh-CN.md)**
